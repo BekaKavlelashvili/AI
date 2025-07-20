@@ -3,20 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze", "Maze\Maze.csproj", "{B91CA67F-609E-4CAC-BEB1-B386B8B911F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maze", "Maze\Maze.csproj", "{B91CA67F-609E-4CAC-BEB1-B386B8B911F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{B91CA67F-609E-4CAC-BEB1-B386B8B911F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B91CA67F-609E-4CAC-BEB1-B386B8B911F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B91CA67F-609E-4CAC-BEB1-B386B8B911F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B91CA67F-609E-4CAC-BEB1-B386B8B911F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FDBAD61-A4F7-49AD-8FB4-10DBA7FB7260}
 	EndGlobalSection
 EndGlobal
