@@ -5,7 +5,9 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maze", "Maze\Maze.csproj", "{B91CA67F-609E-4CAC-BEB1-B386B8B911F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning", "MachineLearning\MachineLearning.csproj", "{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
