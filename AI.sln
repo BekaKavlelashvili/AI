@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNetwork", "NeuralNetw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning", "MachineLearning\MachineLearning.csproj", "{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning_ModelSelectionAndEvaluation", "MachineLearning_ModelSelectionAndEvaluation\MachineLearning_ModelSelectionAndEvaluation.csproj", "{27912869-45DF-4027-A753-81A067C9118D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27912869-45DF-4027-A753-81A067C9118D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27912869-45DF-4027-A753-81A067C9118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27912869-45DF-4027-A753-81A067C9118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27912869-45DF-4027-A753-81A067C9118D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
