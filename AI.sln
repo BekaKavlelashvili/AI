@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maze", "Maze\Maze.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeuralNetwork", "NeuralNetwork\NeuralNetwork.csproj", "{35ABC25C-2623-4ECB-8FC8-4F1A7B5A4584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning", "MachineLearning\MachineLearning.csproj", "{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineLearning", "MachineLearning\MachineLearning.csproj", "{0CCE6DAF-32BE-40E0-9C5E-C328AA8AC76A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MachineLearning_ModelSelectionAndEvaluation", "MachineLearning_ModelSelectionAndEvaluation\MachineLearning_ModelSelectionAndEvaluation.csproj", "{27912869-45DF-4027-A753-81A067C9118D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MachineLearning_ModelSelectionAndEvaluation", "MachineLearning_ModelSelectionAndEvaluation\MachineLearning_ModelSelectionAndEvaluation.csproj", "{27912869-45DF-4027-A753-81A067C9118D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classification", "Clasification\Classification.csproj", "{F05736DB-6116-4FF5-8C9B-6076F96F0F3E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{27912869-45DF-4027-A753-81A067C9118D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27912869-45DF-4027-A753-81A067C9118D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27912869-45DF-4027-A753-81A067C9118D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05736DB-6116-4FF5-8C9B-6076F96F0F3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05736DB-6116-4FF5-8C9B-6076F96F0F3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05736DB-6116-4FF5-8C9B-6076F96F0F3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05736DB-6116-4FF5-8C9B-6076F96F0F3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
